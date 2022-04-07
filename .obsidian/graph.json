@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "line:shopping",
+      "color": {
+        "a": 1,
+        "rgb": 65403
+      }
+    },
+    {
+      "query": "line:Book Summaries",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#todo",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"100 School\"",
+      "color": {
+        "a": 1,
+        "rgb": 302053
+      }
+    },
+    {
+      "query": "path:\"200 Personal\"",
+      "color": {
+        "a": 1,
+        "rgb": 7833399
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.508277436848865,
+  "repelStrength": 14.5611531325817,
+  "linkStrength": 1,
+  "linkDistance": 118,
+  "scale": 0.14383259324960287,
+  "close": true
+}

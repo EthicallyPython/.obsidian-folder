@@ -1,0 +1,11 @@
+{
+  "translucency": false,
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "WYSIWYG",
+    "Enlarge Image on Hover",
+    "Scrollbar"
+  ]
+}

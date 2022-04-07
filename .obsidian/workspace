@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "ac88d74d1009bf81",
+    "type": "split",
+    "children": [
+      {
+        "id": "1542b9ed7633936a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "200 Personal/Zettel/Feel Good Stuff.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "583c29ef3a491936",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b1e983d7d598ab3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5b71fce0a91e524",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b7dac21461c95783",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#neverending_loops",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9b5b7c4c98b52355",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f78983420150efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2bb21bd908e5730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "200 Personal/Zettel/Feel Good Stuff.md"
+              }
+            }
+          },
+          {
+            "id": "5c009ecf9d189d26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200 Personal/Zettel/Feel Good Stuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ae1ce6ce8f66039",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "200 Personal/Zettel/Feel Good Stuff.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "51f7b266228a20a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76c8fcf93399b3fa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "200 Personal/Zettel/Feel Good Stuff.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8061736334027128,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "bd8d2c11a3623987",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1542b9ed7633936a",
+  "lastOpenFiles": [
+    "200 Personal/Zettel/Feel Good Stuff.md",
+    "-100 Inbox/QR Code Scanners.md",
+    "-100 Inbox/I Tried the Dalai Lama's (strict) Daily Routine by Nathaniel Drew.md",
+    "-100 Inbox/Vim Key Binds.md",
+    "100 School/120 Cybersecurity/Quantum Computers.md",
+    "-100 Inbox/Digital SAT App.md",
+    "000 Meta/Look Up Later.md",
+    "300 Fun/Fun Zettel/Animes to Watch.md",
+    "200 Personal/220 Outside Sources/221 Book Summaries/You're Not Listening by Kate Murphy Chapter 17; When to Stop Listening.md",
+    "200 Personal/220 Outside Sources/221 Book Summaries/You're Not Listening by Kate Murphy Chapter 12.md"
+  ]
+}
